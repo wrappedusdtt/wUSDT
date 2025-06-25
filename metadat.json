@@ -1,0 +1,23 @@
+{
+  "name": "Wrapped USDT(Wormhole)",
+  "symbol": "wUSDT",
+  "description": "Wrapped Tether (wUSDT) is a tokenized version of Tether (USD₮) on the Solana blockchain.",
+  "image": "https://bafkreic6tov6v3chg45jkjrhodt4hoerdo26bgqbvrqh6tugyiy6krll4u.ipfs.w3s.link",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafkreic6tov6v3chg45jkjrhodt4hoerdo26bgqbvrqh6tugyiy6krll4u.ipfs.w3s.link",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://wusdt.carrd.co/",
+    "X": "https://x.com/wrappedwusdt",
+    "Telegram": "https://t.me/wrappedusdt",
+    "Github": "https://github.com/wrappedusdtt",
+    "price_usd": "1.00",
+    "circulating_supply": "9999999999.99"
+  }
+}
